@@ -251,9 +251,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ## 📞 Contact
 
 **Author**: Moinuddin Ahamed  
-**Email**: [Your email address]  
-**LinkedIn**: [Your LinkedIn profile]  
-**GitHub**: [Your GitHub profile]
 
 ## 📄 License
 
